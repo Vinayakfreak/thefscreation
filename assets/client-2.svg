@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900">
+  <rect width="900" height="900" fill="#0c0907"/>
+  <rect x="18" y="18" width="864" height="864" fill="none" stroke="#d4a74a" stroke-width="4"/>
+  <text x="450" y="390" text-anchor="middle" font-size="78" font-family="Montserrat, Arial, sans-serif" font-weight="700" fill="#d4a74a">CLIENT 2</text>
+  <text x="450" y="470" text-anchor="middle" font-size="52" font-family="Montserrat, Arial, sans-serif" font-weight="600" fill="#f4efe6">cafe-aroma</text>
+  <text x="450" y="560" text-anchor="middle" font-size="34" font-family="Montserrat, Arial, sans-serif" font-weight="500" fill="#bcb0a2">REPLACE THIS FILE (same name)</text>
+</svg>

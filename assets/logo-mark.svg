@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <rect width="300" height="300" fill="#0c0907"/>
+  <circle cx="150" cy="150" r="90" fill="none" stroke="#d4a74a" stroke-width="8"/>
+  <path d="M110 150c10-30 30-55 72-55 28 0 48 12 56 38-24 24-64 45-128 17z" fill="none" stroke="#d4a74a" stroke-width="7" stroke-linecap="round"/>
+  <path d="M104 155c32 13 65 12 92-1" fill="none" stroke="#d4a74a" stroke-width="7" stroke-linecap="round"/>
+  <text x="150" y="255" text-anchor="middle" font-size="26" font-family="Montserrat, Arial, sans-serif" font-weight="700" fill="#d4a74a">FS</text>
+</svg>

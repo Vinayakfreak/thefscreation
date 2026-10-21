@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <rect width="1000" height="1000" fill="#0c0907"/>
+  <rect x="18" y="18" width="964" height="964" fill="none" stroke="#d4a74a" stroke-width="4"/>
+  <text x="500" y="440" text-anchor="middle" font-size="116" font-family="Montserrat, Arial, sans-serif" font-weight="700" fill="#d4a74a">WHY CHOOSE PHOTO</text>
+  <text x="500" y="560" text-anchor="middle" font-size="72" font-family="Montserrat, Arial, sans-serif" font-weight="600" fill="#f4efe6">1000 x 1000 px - square</text>
+  <text x="500" y="650" text-anchor="middle" font-size="44" font-family="Montserrat, Arial, sans-serif" font-weight="500" fill="#bcb0a2">REPLACE THIS FILE (same name)</text>
+</svg>

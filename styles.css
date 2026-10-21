@@ -1318,7 +1318,7 @@ footer input {
 .bn { padding-left: calc(3vw + 150px); }
 
 .lgi {
-  background: url(data:image/png;base64,PASTE_IMAGE_DATA_HERE) center/contain no-repeat;
+  background: url('./assets/brand-mark.svg') center/contain no-repeat;
 }
 
 .logo .lgi {
@@ -1332,6 +1332,7 @@ footer input {
   height: 190px;
   margin: 0 auto;
   animation: lr 1.8s cubic-bezier(.6,0,.2,1) .2s both, glow 2.5s ease-in-out 2s infinite;
+  background: url('./assets/logo-mark.svg') center/contain no-repeat;
 }
 
 @keyframes lr {
@@ -1390,12 +1391,12 @@ footer input {
 
 .pt .ph:before, .pt .ph:after { display: none; }
 .pt .ph { background-size: cover !important; }
-.ph.p0 { background: url(data:image/jpeg;base64,PASTE_IMAGE_DATA_HERE) center/cover; }
-.ph.p1 { background: url(data:image/jpeg;base64,PASTE_IMAGE_DATA_HERE) center/cover; }
-.ph.p2 { background: url(data:image/jpeg;base64,PASTE_IMAGE_DATA_HERE) center/cover; }
-.ph.p3 { background: url(data:image/jpeg;base64,PASTE_IMAGE_DATA_HERE) center/cover; }
-.ph.p4 { background: url(data:image/jpeg;base64,PASTE_IMAGE_DATA_HERE) center/cover; }
-.ph.p5 { background: url(data:image/jpeg;base64,PASTE_IMAGE_DATA_HERE) center/cover; }
-.ph.p6 { background: url(data:image/jpeg;base64,PASTE_IMAGE_DATA_HERE) center/cover; }
-.ph.p7 { background: url(data:image/jpeg;base64,PASTE_IMAGE_DATA_HERE) center/cover; }
+.ph.p0 { background: url('./assets/hero-photo.svg') center/cover no-repeat; }
+.ph.p1 { background: url('./assets/about-photo.svg') center/cover no-repeat; }
+.ph.p2 { background: url('./assets/showreel-thumbnail.svg') center/cover no-repeat; }
+.ph.p3 { background: url('./assets/why-choose-photo.svg') center/cover no-repeat; }
+.ph.p4 { background: url('./assets/booking-banner-photo.svg') center/cover no-repeat; }
+.ph.p5 { background: url('./assets/client-1.svg') center/cover no-repeat; }
+.ph.p6 { background: url('./assets/client-2.svg') center/cover no-repeat; }
+.ph.p7 { background: url('./assets/client-3.svg') center/cover no-repeat; }
 
